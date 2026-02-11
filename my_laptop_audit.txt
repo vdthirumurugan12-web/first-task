@@ -1,0 +1,65 @@
+
+=================================================================
+PRACTICE LAPTOP AUDIT REPORT
+Date: [11-02-2026]
+Auditor: [GOWRI]
+=================================================================
+
+1. HARDWARE INFORMATION
+-----------------------
+Manufacturer: [HP]
+Model: [HP LAPTOP 15s-fr2xxx]
+Serial Number: [OC4D41BO]
+
+Specifications:
+- Processor: [11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz,2901 Mhz,2 Core(s), 4L...]
+- RAM: [8 GB]
+- Storage: [267.27 GB ]
+
+2. OPERATING SYSTEM
+-------------------
+OS Type: [Windows]
+Version: [e.g., Windows 11 Pro 10.0.26200 build 26200]
+
+3. INSTALLED SOFTWARE
+---------------------
+
+Total Applications: [6]
+
+Key Software by Category:
+  
+   | Category      | Software Name    | Version | Install Date |
+|---------------|------------------|---------|--------------|
+| Browser       | Google Chrome    | 144.0.7559.134  | 11-02-2026   |
+| Browser       | Microsoft Edge   | 144.0.3719.155  | 10-02-2026   |
+| Development   | VS Code          | 1.108.2  | 23-01-2026   |
+| Development   | Git              | 3.4.16  | 14-02-2025  |
+| Communication | Zoom             | 1.24.25503   | 02-10-2024  |
+| Productivity  | Microsoft Office | 2016    | 25-10-2026  |
+
+
+4. NETWORK CONFIGURATION
+------------------------
+Computer Name: GOWRI
+IP Address: 192.168.2.130
+Connection Type: Wi-Fi
+Network Name: ACT_Fibernet
+
+
+5. STORAGE INFORMATION
+----------------------
+Total Disk Space: [477 GB]
+Used Space: [e.g., 320 GB]
+Free Space: [201 GB]
+
+ Check for Updates (Practice Maintenance Check)
+
+Last Update: 30-10-2025
+Pending Updates: No
+
+
+CONCLUSION
+-------------
+Completed practice audit of personal laptop. Documented hardware 
+specifications, operating system details, and software inventory 
+of [6] applications. Laptop is in [good]

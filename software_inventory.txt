@@ -1,0 +1,20 @@
+Software Inventory Report
+-------------------------
+
+Computer Name: GOWRI
+Date: 11-02-2026
+
+Operating System:
+Windows 11 Pro
+
+Installed Software:
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Office 2021
+- Visual Studio Code
+- Git
+- Docker
+- VMware Workstation
+- Windows Defender Antivirus
+- Zoom
+- Microsoft Teams
