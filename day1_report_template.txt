@@ -1,0 +1,27 @@
+Day 1 – IT Environment Report
+System Details
+
+Computer Name: GOWRI
+IP Address: 192.168.2.130
+OS Version: Windows 11 Pro (Build 26200)
+
+Installed Software
+
+Google Chrome (144.0.7559.134)
+
+Microsoft Edge (144.0.3719.155)
+
+Visual Studio Code (1.108.2)
+
+Git (3.4.16)
+
+Zoom (1.24.25503)
+
+Microsoft Office 2016
+
+Total Applications: 6
+
+Network Details
+
+Connection Type: Wi-Fi
+Gateway: 192.168.2.1
